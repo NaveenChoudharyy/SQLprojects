@@ -1,0 +1,30 @@
+
+--create database linedin_ques;
+
+use linedin_ques;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
